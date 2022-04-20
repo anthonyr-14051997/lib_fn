@@ -5,12 +5,12 @@ include 'count.php';//okay
 include 'empty.php';//okay
 include 'intval.php';//okay
 include 'sort.php';//okay
-include 'str_replace.php';// presque okay
+include 'str_replace.php';//okay mais built function
 include 'strcmp.php';//okay
 include 'strlen.php';//okay
 include 'strstr.php';//okay
-include 'strtolower.php';// presque okay
-include 'strtoupper.php';// presque okay
+include 'strtolower.php';//okay mais built function
+include 'strtoupper.php';//okay mais built function
 include 'trim.php';// okay
 
 /* lib bonus */

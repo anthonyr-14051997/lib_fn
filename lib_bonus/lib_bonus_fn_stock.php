@@ -1,7 +1,7 @@
 <?php
 
-include 'explode.php';
-include 'implode.php';
+include 'explode.php';//okay
+include 'implode.php';//okay
 include 'ltrim.php';
 include 'rtrim.php';
 include 'str_rot13.php';
