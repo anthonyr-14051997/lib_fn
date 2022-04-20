@@ -11,6 +11,10 @@ Des function tel que :
 - str_replace
 ...
 
+## ATTENTION
+
+Pour l'instant la partie bonus n'est pas fonctionnelle.
+
 ## fonctionnement
 
 Toute les functions sont dans des fichiers séparer, je fais appel à tout ses fichiers dans un fichier qui sert de stockage, donc il suffit d'appeler ce fichier pour acceder à l'intégralité des function.
