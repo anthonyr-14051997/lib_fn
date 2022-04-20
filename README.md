@@ -7,18 +7,18 @@ Ce projet conciste à créer une librairie de function php, des function déjà 
 
 ## Liste des functions : 
 
-- array_diff
-- count
-- empty
-- intval
-- sort
-- str_replace
-- strcmp
-- strlen
-- strstr
-- strtolower
-- strtoupper
-- trim
+- array_diff /   — Calcule la différence entre des tableaux
+- count /        — Compte tous les éléments d'un tableau ou dans un objet Countable
+- empty /        — Détermine si une variable est vide
+- intval /       — Retourne la valeur numérique entière équivalente d'une variable
+- sort /         — Trie un tableau en ordre croissant
+- str_replace /  — Remplace toutes les occurrences dans une chaîne
+- strcmp /       — Comparaison binaire de chaînes
+- strlen /       — Calcule la taille d'une chaîne
+- strstr /       — Trouve la première occurrence dans une chaîne
+- strtolower /   — Renvoie une chaîne en minuscules
+- strtoupper /   — Renvoie une chaîne en majuscules
+- trim /         — Supprime les espaces (ou d'autres caractères) en début et fin de chaîne
 
 ## ATTENTION
 
@@ -26,14 +26,14 @@ Pour l'instant la partie bonus n'est pas fonctionnelle.
 
 ## Liste des functions de la partie bonus :
 
-- explode
-- implode
-- ltrim
-- rtrim
-- str_rot13
-- str_suffle
-- stripos
-- substr
+- explode /     — Scinde une chaîne de caractères en segments
+- implode /     — Rassemble les éléments d'un tableau en une chaîne
+- ltrim /       — Supprime les espaces (ou d'autres caractères) de début de chaîne
+- rtrim /       — Supprime les espaces (ou d'autres caractères) de fin de chaîne
+- str_rot13 /   — Effectue une transformation ROT13
+- str_suffle /  — Mélange les caractères d'une chaîne de caractères
+- stripos /     — Recherche la position de la première occurrence dans une chaîne, sans tenir compte de la casse
+- substr /      — Retourne un segment de chaîne
 
 ## fonctionnement
 
