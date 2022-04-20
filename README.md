@@ -4,16 +4,36 @@ Librairie de function php
 ## Description
 
 Ce projet conciste à créer une librairie de function php, des function déjà implémenter dans php que l'ont doit recoder.
-Des function tel que : 
 
-- strlen
+## Liste des functions : 
+
+- array_diff
 - count
+- empty
+- intval
+- sort
 - str_replace
-...
+- strcmp
+- strlen
+- strstr
+- strtolower
+- strtoupper
+- trim
 
 ## ATTENTION
 
 Pour l'instant la partie bonus n'est pas fonctionnelle.
+
+## Liste des functions de la partie bonus :
+
+- explode
+- implode
+- ltrim
+- rtrim
+- str_rot13
+- str_suffle
+- stripos
+- substr
 
 ## fonctionnement
 
