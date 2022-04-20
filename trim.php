@@ -4,7 +4,12 @@
 
 include 'strlen.php';
 
-function fn_trim($str) {
+function fn_trim($str, $cara=false) {
+
+    /* si il n'y as rien en deuxième paramètre supprime les espaces */
+    if ($cara == null){
+        $cara = " ";
+    }
     /* initialiser un booléen */
     $doneTrimming = false;
     /* créer une variable vide */
@@ -12,7 +17,7 @@ function fn_trim($str) {
     /* boucler dans la chaine pour trouver les espaces en partant de la gauche */
     for ($index = 0; $index < fn_strlen($str); $index++) {
         /* si il y as un espace */
-        if($str[$index] !== ' '){
+        if($str[$index] !== $cara){
             /* initialiser le booléen à vrai */
             $doneTrimming = true;
         }
@@ -29,7 +34,7 @@ function fn_trim($str) {
     /* boucler dans le resultat précédent dans le sens inverse */
     for ($index = fn_strlen($ret)-1; $index > -1; $index--) {
         /* si il y as un espace initialiser le deuxième booléen à vrai */
-        if($ret[$index] !== ' '){
+        if($ret[$index] !== $cara){
             $doneTrimming2 = true;
         }
         /* si le deuxième booléen est vrai */
@@ -48,4 +53,3 @@ function fn_trim($str) {
     /* afficher la dernière variable vide */
     return $ret3;
 }
-
