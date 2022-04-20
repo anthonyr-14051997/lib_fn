@@ -22,7 +22,7 @@ Ce projet conciste à créer une librairie de function php, des function déjà 
 
 ## ATTENTION
 
-Pour l'instant la partie bonus n'est pas fonctionnelle.
+Pour l'instant la partie bonus n'est pas entièrement fonctionnelle, mais seulement implode et explode (prochainement : substr).
 
 ## Liste des functions de la partie bonus :
 
