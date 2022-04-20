@@ -13,3 +13,6 @@ include 'strtolower.php';// presque okay
 include 'strtoupper.php';// presque okay
 include 'trim.php';// okay
 
+/* lib bonus */
+include 'lib_bonus_fn_stock.php';
+
