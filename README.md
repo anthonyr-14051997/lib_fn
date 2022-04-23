@@ -3,7 +3,7 @@ Librairie de function php
 
 ## Description
 
-Ce projet conciste à créer une librairie de function php, des function déjà implémenter dans php que l'ont doit recoder.
+Ce projet conciste à créer une librairie de function php, des function déjà implémenter dans php que j'ai du recoder.
 
 ## Liste des functions : 
 
