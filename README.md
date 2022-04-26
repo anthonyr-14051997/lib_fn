@@ -28,12 +28,12 @@ Pour l'instant la partie bonus n'est pas entièrement fonctionnelle, mais seulem
 
 - [x] explode /     — Scinde une chaîne de caractères en segments
 - [x] implode /     — Rassemble les éléments d'un tableau en une chaîne
-- [] ltrim /       — Supprime les espaces (ou d'autres caractères) de début de chaîne
-- [] rtrim /       — Supprime les espaces (ou d'autres caractères) de fin de chaîne
-- [] str_rot13 /   — Effectue une transformation ROT13
-- [] str_suffle /  — Mélange les caractères d'une chaîne de caractères
-- [] stripos /     — Recherche la position de la première occurrence dans une chaîne, sans tenir compte de la casse
-- [] substr /      — Retourne un segment de chaîne
+- [ ] ltrim /       — Supprime les espaces (ou d'autres caractères) de début de chaîne
+- [ ] rtrim /       — Supprime les espaces (ou d'autres caractères) de fin de chaîne
+- [ ] str_rot13 /   — Effectue une transformation ROT13
+- [ ] str_suffle /  — Mélange les caractères d'une chaîne de caractères
+- [ ] stripos /     — Recherche la position de la première occurrence dans une chaîne, sans tenir compte de la casse
+- [ ] substr /      — Retourne un segment de chaîne
 
 ## fonctionnement
 
