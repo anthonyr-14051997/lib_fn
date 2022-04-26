@@ -7,18 +7,18 @@ Ce projet conciste à créer une librairie de function php, des function déjà 
 
 ## Liste des functions : 
 
-- [x] array_diff /   — Calcule la différence entre des tableaux
-- [x] count /        — Compte tous les éléments d'un tableau ou dans un objet Countable
-- [x] empty /        — Détermine si une variable est vide
-- [x] intval /       — Retourne la valeur numérique entière équivalente d'une variable
-- [x] sort /         — Trie un tableau en ordre croissant
-- [x] str_replace /  — Remplace toutes les occurrences dans une chaîne
-- [x] strcmp /       — Comparaison binaire de chaînes
-- [x] strlen /       — Calcule la taille d'une chaîne
-- [x] strstr /       — Trouve la première occurrence dans une chaîne
-- [x] strtolower /   — Renvoie une chaîne en minuscules
-- [x] strtoupper /   — Renvoie une chaîne en majuscules
-- [x] trim /         — Supprime les espaces (ou d'autres caractères) en début et fin de chaîne
+- [x] array_diff   — Calcule la différence entre des tableaux
+- [x] count       — Compte tous les éléments d'un tableau ou dans un objet Countable
+- [x] empty     — Détermine si une variable est vide
+- [x] intval    — Retourne la valeur numérique entière équivalente d'une variable
+- [x] sort         — Trie un tableau en ordre croissant
+- [x] str_replace   — Remplace toutes les occurrences dans une chaîne
+- [x] strcmp       — Comparaison binaire de chaînes
+- [x] strlen       — Calcule la taille d'une chaîne
+- [x] strstr       — Trouve la première occurrence dans une chaîne
+- [x] strtolower    — Renvoie une chaîne en minuscules
+- [x] strtoupper    — Renvoie une chaîne en majuscules
+- [x] trim          — Supprime les espaces (ou d'autres caractères) en début et fin de chaîne
 
 ## ATTENTION
 
@@ -26,14 +26,14 @@ Pour l'instant la partie bonus n'est pas entièrement fonctionnelle, mais seulem
 
 ## Liste des functions de la partie bonus :
 
-- [x] explode /     — Scinde une chaîne de caractères en segments
-- [x] implode /     — Rassemble les éléments d'un tableau en une chaîne
-- [ ] ltrim /       — Supprime les espaces (ou d'autres caractères) de début de chaîne
-- [ ] rtrim /       — Supprime les espaces (ou d'autres caractères) de fin de chaîne
-- [ ] str_rot13 /   — Effectue une transformation ROT13
-- [ ] str_suffle /  — Mélange les caractères d'une chaîne de caractères
-- [ ] stripos /     — Recherche la position de la première occurrence dans une chaîne, sans tenir compte de la casse
-- [ ] substr /      — Retourne un segment de chaîne
+- [x] explode      — Scinde une chaîne de caractères en segments
+- [x] implode      — Rassemble les éléments d'un tableau en une chaîne
+- [ ] ltrim       — Supprime les espaces (ou d'autres caractères) de début de chaîne
+- [ ] rtrim       — Supprime les espaces (ou d'autres caractères) de fin de chaîne
+- [ ] str_rot13    — Effectue une transformation ROT13
+- [ ] str_suffle   — Mélange les caractères d'une chaîne de caractères
+- [ ] stripos      — Recherche la position de la première occurrence dans une chaîne, sans tenir compte de la casse
+- [ ] substr      — Retourne un segment de chaîne
 
 ## fonctionnement
 
